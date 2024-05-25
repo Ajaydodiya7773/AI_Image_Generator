@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mdb-react-ui-kit": "^8.0.0",
+    "nodemon": "^3.1.0"
+  }
+}
